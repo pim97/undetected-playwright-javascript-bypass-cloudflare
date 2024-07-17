@@ -1,0 +1,26 @@
+{
+  "name": "idk-cloudflare-solver",
+  "version": "1.0.0",
+  "description": "This repository contains a Python script that sends a POST request to an API, extracts the cookie and user agent, and uses Playwright to set these cookies and user agent in a browser session while navigating to a specified URL through a proxy.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pim97/playwright-python-solve-cloudflare.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pim97/playwright-python-solve-cloudflare/issues"
+  },
+  "homepage": "https://github.com/pim97/playwright-python-solve-cloudflare#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "playwright": "^1.45.1"
+  }
+}
