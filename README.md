@@ -1,5 +1,3 @@
-Certainly! Here is the rewritten README file for the JavaScript version using Playwright:
-
 # Playwright JavaScript CF Solver
 
 This repository contains a JavaScript script that sends a POST request to an API, extracts the cookie and user agent, and uses Playwright to set these cookies and user agent in a browser session while navigating to a specified URL through a proxy.
